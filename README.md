@@ -3,10 +3,10 @@
 I am a Software Developer from Argentina with experience in Java and C++.<br>
 I worked professionaly since 2016 on various consulting firms, including Accenture and Globant.
 
-I am currently working as a backend dev on Mercado Libre (MELI).
+🔭 I am currently working as a backend dev on Mercado Libre (MELI).
 
-I also study game development as a hobby and do little games or side projects for fun.<br>
-Also like doing photography, you can find me at @lux.solari on Instagram!
+🕹️ I also study game development as a hobby and do little games or side projects for fun.<br>
+📷 Also like doing photography, you can find me at [@lux.solari](instagram.com/lux.solari) on Instagram!
 <!--
 **luxsolari/luxsolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
