@@ -1,10 +1,16 @@
 ## Hi there 👋 I'm Lux Solari.
 
-I am a Software Developer from Argentina with experience in Java and C++.<br>
+I am a Software Developer from Buenos Aires, Argentina with experience in Java, C++.<br>
 I worked professionaly since 2016 on various consulting firms, including Accenture and Globant.
 
 🔭 I am currently working as a backend dev on Mercado Libre (MELI).
-
+🌱 I’m currently learning (in no particular order)...
+  - AI stuff (Context Engineering, Prompt Engineering, Rules...)
+  - More languages (more C++, Kotlin, Swift, Go)
+  - iOS / Swift development
+  - Android development / Kotlin for Android
+  - Web development stuff, for personal site creation mostly.
+  
 🕹️ I also do game development as a hobby and do little games or side projects for fun.<br>
 📷 Also like doing photography, you can find me at [@lux.solari](instagram.com/lux.solari) on Instagram!
 <!--
