@@ -4,6 +4,7 @@ I am a Software Developer from Buenos Aires, Argentina with experience in Java, 
 I worked professionaly since 2016 on various consulting firms, including Accenture and Globant.
 
 🔭 I am currently working as a backend dev on Mercado Libre (MELI).
+
 🌱 I’m currently learning (in no particular order)...
   - AI stuff (Context Engineering, Prompt Engineering, Rules...)
   - More languages (more C++, Kotlin, Swift, Go)
