@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Lux Solari.
+## Hi there 👋 I'm Lux Solari. 
+_(Also known in _realspace_ as **Luciano Laje**)._
 
 I am a Software Developer from Buenos Aires, Argentina with experience in Java, C++.<br>
 I worked professionaly since 2016 on various consulting firms, including Accenture and Globant.
