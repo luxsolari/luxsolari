@@ -14,12 +14,13 @@ I worked professionaly since 2016 on various consulting firms, including Accentu
   - Android development / Kotlin for Android
   - Web development stuff, for personal site creation mostly.
   
-🕹️ I also do game development as a hobby and do little games or side projects for fun.
+🕹️ I also do game development as a hobby and do little games or side projects for fun, or as an excuse to learn/apply something of the listed above.
 
 📷 Also like doing photography, you can find me at [@lux.solari](instagram.com/lux.solari) on Instagram!
 
   - I shoot, develop and edit my own analog/film photos.
   - I also do some darkoom copying on my home-made darkoom lab.
+  - I love 35mm film, film emulation, vintage looking photos, b/w photography...
   
 <!--
 **luxsolari/luxsolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
