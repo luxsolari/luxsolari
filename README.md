@@ -21,6 +21,12 @@ I work professionaly since 2016 on various consulting firms, including Accenture
   - I shoot, develop and edit my own analog/film photos.
   - I also do some darkoom copying on my home-made darkoom lab.
   - I love 35mm film, film emulation, vintage looking photos, b/w photography...
+
+🗃️ Use these links to download the `.profile` settings for the three major editors I use:
+  - [VS Code](https://github.com/luxsolari/luxsolari/blob/master/VSCode.code-profile)
+  - [Windsurf](https://github.com/luxsolari/luxsolari/blob/master/Windsurf.code-profile)
+  - [Cursor](https://github.com/luxsolari/luxsolari/blob/master/Cursor.code-profile)
+- They have a load of extensions for many things, so I don't have to spend two weeks setting everything up every time I re-install my computers.
   
 <!--
 **luxsolari/luxsolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
