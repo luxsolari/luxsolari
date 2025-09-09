@@ -16,3 +16,29 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore node modules
+node_modules/
+.npm/
+package-lock.json
+yarn.lock
+.pnp.*
+.yarn-integrity
+
+# Ignore VSCode settings
+.vscode/
+.history/
+*.code-workspace
+
+# Ignore IDE settings
+.idea/
+*.iml
+*.iws
+.cursor/
+.windsurf/
