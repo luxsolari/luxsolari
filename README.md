@@ -26,6 +26,7 @@ I work professionaly since 2016 on various consulting firms, including Accenture
   - [VS Code](https://github.com/luxsolari/luxsolari/blob/master/VSCode.code-profile)
   - [Windsurf](https://github.com/luxsolari/luxsolari/blob/master/Windsurf.code-profile)
   - [Cursor](https://github.com/luxsolari/luxsolari/blob/master/Cursor.code-profile)
+  
   They have a load of extensions for many things, so I don't have to spend two weeks setting everything up every time I re-install my computers.
   
 <!--
