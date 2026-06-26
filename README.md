@@ -7,7 +7,7 @@ I work professionaly since 2016 on various consulting firms, including Accenture
 🔭 I am currently working as a backend dev / AI Engineer (in training, ha) on Mercado Libre (MELI), researching and developing GenAI initiatives for development acceleration.
 
 🌱 I’m currently learning - in no particular order...
-  - AI stuff: Context Engineering, Prompt Engineering, Rules...
+  - AI stuff: Context Engineering, Prompt Engineering, Harness Engineering, tooling, rules, architecture, models... whatever I can get my hands on.
   - More languages (more C++, advanced Java, Swift/SwiftUI maybe...)
   - Web development stuff, for personal site creation mostly.
   
