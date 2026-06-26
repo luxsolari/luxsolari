@@ -9,7 +9,7 @@ I work professionaly since 2016 on various consulting firms, including Accenture
 🌱 I’m currently learning (in no particular order)...
   - AI stuff (Context Engineering, Prompt Engineering, Rules...)
   - More Java/JVM stuff (for day job, mostly)
-  - More languages (more C++, Kotlin, Swift, Go)
+  - More languages (more C++, advanced Java, Swift/SwiftUI maybe...)
   - Web development stuff, for personal site creation mostly.
   
 🕹️ I also do game development as a hobby and do little games or side projects for fun, or as an excuse to learn/apply something of the listed above.
