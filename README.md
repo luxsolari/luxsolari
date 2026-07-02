@@ -4,7 +4,7 @@ _(Also known in _realspace_ as **Luciano Laje**)._
 I am a Software Developer from Buenos Aires, Argentina with experience mostly in Java, and some C++ and C#.<br>
 I work professionaly since 2016 on various consulting firms, including Accenture and Globant.
 
-🔭 I am currently working as a backend dev / AI Engineer (in training, ha) on Mercado Libre (MELI), researching and developing GenAI initiatives for development acceleration.
+🔭 I am currently working as a backend dev / AI Engineer (in-training, ha) on Mercado Libre (MELI), researching and developing GenAI initiatives for development acceleration.
 
 🌱 I’m currently learning - in no particular order...
   - AI stuff: Context Engineering, Prompt Engineering, Harness Engineering, tooling, rules, architecture, models... whatever I can get my hands on.
