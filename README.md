@@ -1,23 +1,25 @@
 ## Hi there 👋 I'm Lux Solari. 
 _(Also known in _realspace_ as **Luciano Laje**)._
 
-I am a Software Developer from Buenos Aires, Argentina with experience mostly in Java, and some C++ and C#.<br>
-I work professionaly since 2016 on various consulting firms, including Accenture and Globant.
+I am a Software Developer from Buenos Aires, Argentina with experience mostly in Java, and a bit of C++, C# and Python.
+I worked professionally since 2016 on various consulting firms, including Accenture and Globant.
 
-🔭 I am currently working as a backend dev / AI Engineer (in-training, ha) on Mercado Libre (MELI), researching and developing GenAI initiatives for development acceleration.
+🔭 I am currently working as a back-end / AI Engineer on Mercado Libre (MELI), researching and developing GenAI initiatives and tooling enablement for development acceleration.
 
 🌱 I’m currently learning - in no particular order...
-  - AI stuff: Context Engineering, Prompt Engineering, Harness Engineering, tooling, rules, architecture, models... whatever I can get my hands on.
-  - More languages (more C++, advanced Java, Swift/SwiftUI maybe...)
-  - Web development stuff, for personal site creation mostly.
-  
-🕹️ I also do game development as a hobby and do little games or side projects for fun, or as an excuse to learn/apply something of the listed above.
 
-📷 Also like doing photography, you can find me at [@lux.solari](instagram.com/lux.solari) on Instagram!
+- AI stuff: Context Engineering, Prompt Engineering, Harness  Engineering, tooling, rules, architecture, models... whatever I can get  my hands on.
+- More languages (more C++, advanced Java, Swift/SwiftUI maybe...)
+- Web development stuff, for personal site creation mostly.
 
-  - I shoot, develop and edit my own analog/film photos.
-  - I also do some darkoom copying on my home-made darkoom lab.
-  - I love 35mm film, film emulation, vintage looking photos, b/w photography...
+🕹️ I also do game development as a hobby and do little  games or side projects for fun, or as an excuse to learn/apply something  of the listed above.
+
+
+
+📷 Also like doing photography, you can find me at @lux.solari on Instagram!
+- I shoot, develop and edit my own analog/film photos.
+- I also do some paper copies on my home-made darkoom lab.
+- I love 35mm film, film emulation, vintage looking photos, b/w photography...
   
 <!--
 **luxsolari/luxsolari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
